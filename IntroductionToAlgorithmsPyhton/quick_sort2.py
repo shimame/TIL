@@ -15,4 +15,4 @@ def quick_sort(data):
 
     return left + [pivot] + right
 
-print(quick_sort(data))
+#print(quick_sort(data))
