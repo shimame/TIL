@@ -7,6 +7,7 @@ import android.view.View
 import android.widget.ImageButton
 import com.example.janken.databinding.ActivityMainBinding
 
+
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
     override fun onCreate(savedInstanceState: Bundle?) {
